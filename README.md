@@ -1,1 +1,1 @@
-# Pure-Functions-Immutability-and-Referential-Transparency
+# Завдання виконав студент групи ІПЗ-2СК Онищенко Артем
